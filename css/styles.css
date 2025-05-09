@@ -194,7 +194,7 @@ body {
 }
 
 
-/* Responsive design */
+/* DISEÑO RESPONSIVE */
 @media (max-width: 858px) {
     .rightNav {
         display: none;
@@ -214,7 +214,7 @@ body {
     }
 
     .content {
-        grid-template-columns: 1fr; /* Imagen debajo del botón */
+        grid-template-columns: 1fr;
     }
     .content img {
         margin-left: 140px;
